@@ -1,0 +1,14 @@
+appname="MikuBeat"
+appver="0.3Release"
+appcode="12"
+packagename="neko.mikubeat.player"
+theme="Theme"
+debugmode=false
+user_permission={
+  "INTERNET",
+  "REQUEST_COMPANION_RUN_IN_BACKGROUND",
+  "REQUEST_COMPANION_USE_DATA_IN_BACKGROUND",
+  "REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+  "REQUEST_INSTALL_PACKAGES",
+  "WRITE_EXTERNAL_STORAGE"
+}
