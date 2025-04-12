@@ -14,7 +14,7 @@
 
 ## 软件介绍  
 
-+  `MikuBeat` 是一款安卓 **术力口** 播放器软件，基于 `AndroLua` - `OpenLuaX+` 开发，完全 `免费开源` 。  
++  `MikuBeat` 是一款安卓 **术力口** 播放器软件，基于 `AndroLua` - [`OpenLuaX+`](https://github.com/znzsofficial/OpenLuaX_Open-Source) 开发，完全 `免费开源` 。  
 + MikuBeat依赖于网易云音乐、哔站，通过开放接口与网页爬虫获取音频与歌曲信息，项目仅用于交流学习，无意对相关图片与歌曲造成任何侵权。  
 + MikuBeat坚持使用 `Material Design 3` 主题开发，界面优雅美观。  
 
@@ -33,7 +33,7 @@
 
 ### 注意事项
 
-> 请在 `MikuBeat/lua/userAddManager.lua` 第307行填入正确的硅基流动密钥  
+> 请在 `MikuBeat/lua/userAddManager.lua` 第307行填入正确的 deepseek 密钥  
 > 源码内含有用到本人水仙后台的代码，自行修改
 
 
